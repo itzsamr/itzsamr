@@ -15,10 +15,10 @@ Welcome to my profile! I'm a dedicated IT student fueled by a strong drive to ut
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=itzsamr&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote:
+## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=itzsamr&icon=6&color=12)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=itzsamr&icon=6&color=12)](https://visitcount.itsvg.in)
 
 

@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Welcome to my profile! I'm a dedicated IT student fueled by a strong drive to utilize technology for creating significant changes. With expertise in data science and cybersecurity, I strive to make a lasting impact in the digital world.
+I'm a data engineer who transforms raw data into actionable insights, building bridges between complexity and clarity to drive impactful decisions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarathiban)

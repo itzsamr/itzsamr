@@ -1,5 +1,5 @@
-## 💫 About Me:
-I'm a data engineer who transforms raw data into actionable insights, building bridges between complexity and clarity to drive impactful decisions.
+## 🐺 About Me:
+I'm a data engineer who transforms raw data into actionable insights, building bridges between complexity and clarity to drive impactful decisions. Passionate about crafting scalable solutions, I turn data challenges into opportunities for innovation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarathiban)
